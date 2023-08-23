@@ -1,0 +1,181 @@
+Player 1's turn
+Hand: 9d Kd 3c 5s 8h 2h 3s 
+Books: 
+Asks: Do you have a 9?
+Player 2 says: Go Fish!
+Player 1 draws a card: Jd
+Player 2's turn
+Hand: 3d 7s 8d Qd 10d 10h 6d 
+Books: 
+Asks: Do you have a 3?
+Player 1 says: Go Fish!
+Player 2 draws a card: 7h
+Player 1's turn
+Hand: 9d Kd 3c 5s 8h 2h 3s Jd 
+Books: 
+Asks: Do you have a 9?
+Player 2 says: Go Fish!
+Player 1 draws a card: 5d
+Player 2's turn
+Hand: 3d 7s 8d Qd 10d 10h 6d 7h 
+Books: 
+Asks: Do you have a 3?
+Player 1 says: Go Fish!
+Player 2 draws a card: 2c
+Player 1's turn
+Hand: 9d Kd 3c 5s 8h 2h 3s Jd 5d 
+Books: 
+Asks: Do you have a 9?
+Player 2 says: Go Fish!
+Player 1 draws a card: 4s
+Player 2's turn
+Hand: 3d 7s 8d Qd 10d 10h 6d 7h 2c 
+Books: 
+Asks: Do you have a 3?
+Player 1 says: Go Fish!
+Player 2 draws a card: Js
+Player 1's turn
+Hand: 9d Kd 3c 5s 8h 2h 3s Jd 5d 4s 
+Books: 
+Asks: Do you have a 9?
+Player 2 says: Go Fish!
+Player 1 draws a card: Kh
+Player 2's turn
+Hand: 3d 7s 8d Qd 10d 10h 6d 7h 2c Js 
+Books: 
+Asks: Do you have a 3?
+Player 1 says: Go Fish!
+Player 2 draws a card: 8s
+Player 1's turn
+Hand: 9d Kd 3c 5s 8h 2h 3s Jd 5d 4s Kh 
+Books: 
+Asks: Do you have a 9?
+Player 2 says: Go Fish!
+Player 1 draws a card: 7d
+Player 2's turn
+Hand: 3d 7s 8d Qd 10d 10h 6d 7h 2c Js 8s 
+Books: 
+Asks: Do you have a 3?
+Player 1 says: Go Fish!
+Player 2 draws a card: Jc
+Player 1's turn
+Hand: 9d Kd 3c 5s 8h 2h 3s Jd 5d 4s Kh 7d 
+Books: 
+Asks: Do you have a 9?
+Player 2 says: Go Fish!
+Player 1 draws a card: Ac
+Player 2's turn
+Hand: 3d 7s 8d Qd 10d 10h 6d 7h 2c Js 8s Jc 
+Books: 
+Asks: Do you have a 3?
+Player 1 says: Go Fish!
+Player 2 draws a card: Qh
+Player 1's turn
+Hand: 9d Kd 3c 5s 8h 2h 3s Jd 5d 4s Kh 7d Ac 
+Books: 
+Asks: Do you have a 9?
+Player 2 says: Go Fish!
+Player 1 draws a card: Qc
+Player 2's turn
+Hand: 3d 7s 8d Qd 10d 10h 6d 7h 2c Js 8s Jc Qh 
+Books: 
+Asks: Do you have a 3?
+Player 1 says: Go Fish!
+Player 2 draws a card: Ks
+Player 1's turn
+Hand: 9d Kd 3c 5s 8h 2h 3s Jd 5d 4s Kh 7d Ac Qc 
+Books: 
+Asks: Do you have a 9?
+Player 2 says: Go Fish!
+Player 1 draws a card: 9h
+Player 2's turn
+Hand: 3d 7s 8d Qd 10d 10h 6d 7h 2c Js 8s Jc Qh Ks 
+Books: 
+Asks: Do you have a 3?
+Player 1 says: Go Fish!
+Player 2 draws a card: 4c
+Player 1's turn
+Hand: 9d Kd 3c 5s 8h 2h 3s Jd 5d 4s Kh 7d Ac Qc 9h 
+Books: 
+Asks: Do you have a 9?
+Player 2 says: Go Fish!
+Player 1 draws a card: 4d
+Player 2's turn
+Hand: 3d 7s 8d Qd 10d 10h 6d 7h 2c Js 8s Jc Qh Ks 4c 
+Books: 
+Asks: Do you have a 3?
+Player 1 says: Go Fish!
+Player 2 draws a card: 6s
+Player 1's turn
+Hand: 9d Kd 3c 5s 8h 2h 3s Jd 5d 4s Kh 7d Ac Qc 9h 4d 
+Books: 
+Asks: Do you have a 9?
+Player 2 says: Go Fish!
+Player 1 draws a card: Jh
+Player 2's turn
+Hand: 3d 7s 8d Qd 10d 10h 6d 7h 2c Js 8s Jc Qh Ks 4c 6s 
+Books: 
+Asks: Do you have a 3?
+Player 1 says: Go Fish!
+Player 2 draws a card: As
+Player 1's turn
+Hand: 9d Kd 3c 5s 8h 2h 3s Jd 5d 4s Kh 7d Ac Qc 9h 4d Jh 
+Books: 
+Asks: Do you have a 9?
+Player 2 says: Go Fish!
+Player 1 draws a card: Ad
+Player 2's turn
+Hand: 3d 7s 8d Qd 10d 10h 6d 7h 2c Js 8s Jc Qh Ks 4c 6s As 
+Books: 
+Asks: Do you have a 3?
+Player 1 says: Go Fish!
+Player 2 draws a card: 9c
+Player 1's turn
+Hand: 9d Kd 3c 5s 8h 2h 3s Jd 5d 4s Kh 7d Ac Qc 9h 4d Jh Ad 
+Books: 
+Asks: Do you have a 9?
+Player 2 says: Go Fish!
+Player 1 draws a card: 2s
+Player 2's turn
+Hand: 3d 7s 8d Qd 10d 10h 6d 7h 2c Js 8s Jc Qh Ks 4c 6s As 9c 
+Books: 
+Asks: Do you have a 3?
+Player 1 says: Go Fish!
+Player 2 draws a card: 10s
+Player 1's turn
+Hand: 9d Kd 3c 5s 8h 2h 3s Jd 5d 4s Kh 7d Ac Qc 9h 4d Jh Ad 2s 
+Books: 
+Asks: Do you have a 9?
+Player 2 says: Go Fish!
+Player 1 draws a card: 3h
+Player 2's turn
+Hand: 3d 7s 8d Qd 10d 10h 6d 7h 2c Js 8s Jc Qh Ks 4c 6s As 9c 10s 
+Books: 
+Asks: Do you have a 3?
+Player 1 says: Go Fish!
+Player 2 draws a card: Ah
+Player 1's turn
+Hand: 9d Kd 3c 5s 8h 2h 3s Jd 5d 4s Kh 7d Ac Qc 9h 4d Jh Ad 2s 3h 
+Books: 
+Asks: Do you have a 9?
+Player 2 says: Go Fish!
+Player 1 draws a card: 6h
+Player 2's turn
+Hand: 3d 7s 8d Qd 10d 10h 6d 7h 2c Js 8s Jc Qh Ks 4c 6s As 9c 10s Ah 
+Books: 
+Asks: Do you have a 3?
+Player 1 says: Go Fish!
+Player 2 draws a card: 10c
+Player 1's turn
+Hand: 9d Kd 3c 5s 8h 2h 3s Jd 5d 4s Kh 7d Ac Qc 9h 4d Jh Ad 2s 3h 6h 
+Books: 
+Asks: Do you have a 9?
+Player 2 says: Go Fish!
+Player 1 draws a card: 9s
+Player 2's turn
+Hand: 3d 7s 8d Qd 10d 10h 6d 7h 2c Js 8s Jc Qh Ks 4c 6s As 9c 10s Ah 10c 
+Books: 
+Asks: Do you have a 3?
+Player 1 says: Go Fish!
+Player 2 draws a card: 8c
+Game ends after 30 turns. It's a tie!
