@@ -1,0 +1,15 @@
+# Makefile for main.cpp
+
+CXX = g++
+CXXFLAGS = -std=c++11 -Wall
+
+all: main
+
+main: main.o
+	$(CXX) $(CXXFLAGS) -o $@ $^
+
+main.o: main.cpp
+	$(CXX) $(CXXFLAGS) -c $<
+
+clean:
+	rm -f *.o main
