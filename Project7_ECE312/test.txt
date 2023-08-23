@@ -1,0 +1,15 @@
+apple
+banana
+orange
+grape
+pear
+5
+10
+3
+8
+15
+3.14
+1.618
+2.718
+4.6692
+9.81
