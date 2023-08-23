@@ -1,0 +1,30 @@
+# Makefile for Proj7
+
+# Compiler
+CXX = g++
+
+# Compiler flags
+CXXFLAGS = -std=c++11 -Wall -Wextra
+
+# Target executable
+TARGET = Proj7
+
+# Source files
+SRCS = main.cpp BST312.h
+
+# Object files
+OBJS = $(SRCS:.cpp=.o)
+
+# Rules
+all: $(TARGET)
+
+$(TARGET): $(OBJS)
+	$(CXX) $(CXXFLAGS) -o $(TARGET) $(OBJS)
+
+%.o: %.cpp
+	$(CXX) $(CXXFLAGS) -c $< -o $@
+
+clean:
+	rm -f $(TARGET) $(OBJS)
+
+.PHONY: all clean
